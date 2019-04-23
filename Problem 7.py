@@ -1,4 +1,4 @@
-#Deshawn Smith
+#Jamaree Jackson
 #4/9/2019
 
 #Problem 7 this will give you the sum of the positive numbers then subtract the negative odd
